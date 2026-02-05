@@ -1,4 +1,4 @@
-# DarkDawnTool
+# DarkDawnTools
 
 DarkDawnTool - Golden Sun: Dark Dawn Modding Tools & Information
 
